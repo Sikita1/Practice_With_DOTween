@@ -1,11 +1,13 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class Movement : DataChange
+public class ScaleChange : DataChange
 {
+    [SerializeField] private Vector3 _target;
+
     private void Start()
     {
-        transform.DOMoveZ(-1f, GetDuration())
+        transform.DOScale(_target, GetDuration())
                  .SetLoops(GetRepit(), GetLoopType())
                  .SetEase(GetEase());
     }

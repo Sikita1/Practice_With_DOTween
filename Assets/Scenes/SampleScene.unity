@@ -216,8 +216,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 65a21a244597ab5499a4598e76a6fbc8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 0
   _text: {fileID: 47894077}
-  _duration: 3
 --- !u!1 &58762542
 GameObject:
   m_ObjectHideFlags: 0
@@ -347,8 +347,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c68e91be7a1531e40a3786caa0b7ab7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 0
   _target: {x: 0, y: 180, z: 0}
-  _duration: 2
 --- !u!114 &58762549
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -361,7 +361,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba17827d01195fd489d9538380ef1a17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _duration: 2
+  _loopType: 1
 --- !u!114 &58762550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -374,8 +374,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b9f34c82f211d84280e93a210e5404e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 1
   _target: {x: 2, y: 2, z: 2}
-  _duration: 2
 --- !u!1 &148132757
 GameObject:
   m_ObjectHideFlags: 0
@@ -503,8 +503,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c68e91be7a1531e40a3786caa0b7ab7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 0
   _target: {x: 0, y: 180, z: 0}
-  _duration: 2
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -726,7 +726,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ba17827d01195fd489d9538380ef1a17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _duration: 2
+  _loopType: 1
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1006,9 +1006,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 701954fe83ecf844780b686953302900, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 1
   _renderer: {fileID: 1129119924}
   _targetColor: {r: 0.061599493, g: 1, b: 0, a: 1}
-  _duration: 2
 --- !u!1 &1187939069
 GameObject:
   m_ObjectHideFlags: 0
@@ -1136,8 +1136,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b9f34c82f211d84280e93a210e5404e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loopType: 1
   _target: {x: 1.5, y: 1.5, z: 1.5}
-  _duration: 2
 --- !u!1 &1624531803
 GameObject:
   m_ObjectHideFlags: 0
