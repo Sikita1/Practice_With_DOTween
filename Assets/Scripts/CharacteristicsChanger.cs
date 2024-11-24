@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class DataChange : MonoBehaviour
+public class CharacteristicsChanger : MonoBehaviour
 {
     [SerializeField] private LoopType _loopType;
     

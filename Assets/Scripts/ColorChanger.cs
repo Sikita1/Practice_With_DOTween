@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class ColorChange : DataChange
+public class ColorChanger : CharacteristicsChanger
 {
     [SerializeField] private MeshRenderer _renderer;
     [SerializeField] private Color _targetColor;

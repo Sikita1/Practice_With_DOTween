@@ -362,6 +362,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _loopType: 1
+  _targetPosition: -1
 --- !u!114 &58762550
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -727,6 +728,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _loopType: 1
+  _targetPosition: -1
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0

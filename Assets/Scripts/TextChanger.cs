@@ -2,7 +2,7 @@ using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
 
-public class TextChange : DataChange
+public class TextChanger : CharacteristicsChanger
 {
     [SerializeField] private Text _text;
 
