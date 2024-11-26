@@ -1,7 +1,7 @@
 using UnityEngine;
 using DG.Tweening;
 
-public class MovementChanger : CharacteristicsChanger
+public class Mover : CharacteristicsChanger
 {
     [SerializeField] private float _targetPosition;
 
